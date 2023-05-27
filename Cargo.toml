@@ -1,5 +1,5 @@
 [package]
-name = "runes-rs"
+name = "rusty-runes"
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
@@ -9,4 +9,7 @@ description = "Runes - Simple Cookies You Can Extend (similar to Macaroons)"
 documentation = "https://github.com/kodylow/runes-rs/blob/master/README.md"
 readme = "README.md"
 exclude = [".gitignore"]
+
+[workspace]
+
 [dependencies]

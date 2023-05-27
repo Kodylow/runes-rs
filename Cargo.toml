@@ -2,7 +2,11 @@
 name = "runes-rs"
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
+license = "MIT"
+license-file = "LICENSE"
+repository = "https://github.com/kodylow/runes-rs"
+description = "Runes - Simple Cookies You Can Extend (similar to Macaroons)"
+documentation = "https://github.com/kodylow/runes-rs/blob/master/README.md"
+readme = "README.md"
+exclude = [".gitignore"]
 [dependencies]
